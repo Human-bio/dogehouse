@@ -141,7 +141,7 @@
         "public": "عام",
         "private": "خاص",
         "roomName": "اسم الغرفة",
-        "roomDescription": "وصف الغرفة",
+        "roomDescription": "وصف عن الغرفة",
         "descriptionError": "أقصى حد 500",
         "nameError": "يجب أن يكون ما بين حرفين و 60 حرف"
       },
